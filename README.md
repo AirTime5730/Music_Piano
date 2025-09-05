@@ -9,3 +9,5 @@ The TF key just makes it easier to play Toccata and Fugue. The 1 custom mapping 
 Feel free to add your own custom mappings and add your own additions.
 
 I used the soundfont files from https://github.com/open-soundfonts/SGM_V2_01_soundfonts.git. The list of sounds file is also from that repository. 
+
+The program references these soundfont files in a folder named SF2.
