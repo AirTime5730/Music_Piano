@@ -7,3 +7,5 @@ All the key signatures are in majors. If you want E Flat Major, into the input f
 The TF key just makes it easier to play Toccata and Fugue. The 1 custom mapping is to play "I just died in your arms tonight" - Cutting Crew by making each key bound to a chord. 
 
 Feel free to add your own custom mappings and add your own additions.
+
+I used the soundfont files from https://github.com/open-soundfonts/SGM_V2_01_soundfonts.git. The list of sounds file is also from that repository. 
